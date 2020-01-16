@@ -1,0 +1,30 @@
+.img {
+  float: right;
+  height: 140px;
+  width: 12%;
+  padding-right: 25%;
+}
+
+.hr {
+  border: 1px solid white;
+}
+
+.content {
+  padding-left: 10%;
+}
+.kanan {
+  float: right;
+  width: 15%;
+  margin-right: 2%;
+}
+
+.contoh {
+  height: 600px;
+  border: 2px solid black;
+  position: fixed;
+
+}
+
+.h3 {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.54);
+}
